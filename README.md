@@ -1,2 +1,1 @@
-# integracao-invoicy-canarinho-php
-Exemplo de código-fonte para integração com InvoiCy Canarinho utilizando a linguagem PHP
+Exemplo de código-fonte para integração com InvoiCy Brasil utilizando a linguagem PHP
